@@ -1,4 +1,4 @@
-# yo wassuh, im cyril !
+# im cyril
 
 ```bash
                     _          _          _                         _               
